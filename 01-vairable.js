@@ -7,3 +7,4 @@ fruit="kiwi";
 console.log("Updated value of variable fruit is:",fruit);
 
 
+
